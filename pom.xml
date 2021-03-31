@@ -48,7 +48,7 @@
         <maven.javadoc.plugin.version>2.10.3</maven.javadoc.plugin.version>
         <annotations.version>3.0.0</annotations.version>
         <clover.version>4.1.2</clover.version>
-        <guava.version>26.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <slf4j.version>1.7.25</slf4j.version>
         <junit.version>4.12</junit.version>
         <junit-quickcheck.version>0.6.1</junit-quickcheck.version>
